@@ -1,0 +1,14 @@
+{
+  "apiSettings": {
+    "dfxp1": {
+      "host": "API_NOTIF_DFXP1_HOST",
+      "port": "API_NOTIF_DFXP1_PORT",
+      "endpoint": "API_NOTIF_DFXP1_ENDPOINT",
+      "secureConnection": "API_NOTIF_DFXP1_SECURE_FLAG",
+      "tls": {
+        "ciphers":"API_NOTIF_DFXP1_TLS_CIPHERS"
+     }
+    }
+  },
+  "PORT": "API_NOTIF_PORT"
+}

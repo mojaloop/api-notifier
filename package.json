@@ -4,7 +4,7 @@
   "description": "Notifier module capable of sending HTTP calls to arbitrary APIs, based on monitored topics from kafka.",
   "main": "app.js",
   "dependencies": {
-    "@hapi/hapi": "18.3.1",
+    "@hapi/hapi": "20.0.0",
     "@mojaloop/central-services-error-handling": "7.3.0",
     "@mojaloop/central-services-health": "7.0.0",
     "@mojaloop/central-services-shared": "7.2.0",
